@@ -1,0 +1,6 @@
+cd C:\Users\withm\OneDrive\Desktop\DTSC 701\lab2
+
+python UniqueWordCount.py p1_input.txt p1_output.txt
+python WordCountwStopwords.py p2_input.txt p2_output.txt
+python DoubleWordCount.py p3_input.txt p3_output.txt
+python InvertedIndex.py p4_input.txt p4_output.txt
